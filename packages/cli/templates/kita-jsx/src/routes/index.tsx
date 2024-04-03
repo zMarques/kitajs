@@ -29,7 +29,7 @@ export function get() {
               target="_blank"
               class="border flex flex-col h-full border-red-200 rounded-xl p-6 gap-6"
             >
-              <h2 class="leading[3rem] text-2xl font-bold">Kita.js</h2>
+              <h2 class="leading[3rem] text-2xl font-bold">Kita.js 🡲</h2>
               <p class="leading-2 text-base lg:text-xl text-zinc-500 font-medium">
                 Minimum setup, maximum efficiency. Kita.js simplifies your workflow with a no-nonsense, practical
                 approach.
@@ -40,7 +40,7 @@ export function get() {
               target="_blank"
               class="border flex flex-col h-full border-red-200 rounded-xl p-6 gap-6"
             >
-              <h2 class="leading[3rem] text-2xl font-bold">Kita HTML</h2>
+              <h2 class="leading[3rem] text-2xl font-bold">Kita HTML 🡲</h2>
               <p class="leading-2 text-base lg:text-xl text-zinc-500 font-medium">
                 Ready to use. Kita HTML stands out for its simplicity, allowing you to focus on what really matters:
                 building powerful APIs.
@@ -51,7 +51,7 @@ export function get() {
               target="_blank"
               class="border flex flex-col h-full border-red-200 rounded-xl p-6 gap-6"
             >
-              <h2 class="leading[3rem] text-2xl font-bold">Github</h2>
+              <h2 class="leading[3rem] text-2xl font-bold">Github 🡲</h2>
               <p class="leading-2 text-base lg:text-xl text-zinc-500 font-medium">
                 Explore. Collaborate. Innovate. Access the Kita repository on GitHub and join the construction of
                 smarter, more efficient routing.
